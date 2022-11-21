@@ -1,7 +1,8 @@
 ## Welcome! 
 
-My name is Thomas Cividino. I'am 31 year old and I live in Wroclaw, Poland. I have been learning Front End Developer since january 2021.
-I’m currently looking for a job in this field.
+My name is Thomas Cividino.
+
+I am an ambitious person, constantly learning and developing. I have an open mind, I like to learn. Working in various industries, many years of contact with people, teamwork and a large baggage of experience have shaped my character, including freedom of communication and ease of establishing relationships. Curiosity led me to the world of programming, where I constantly find new challenges. On a daily basis, I am a smiling person and I have a positive approach to the surrounding reality. I have less than a year of experience in improving the website and a few of my own, original projects.
 
 ## Tech stack: 
 
