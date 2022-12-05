@@ -6,7 +6,7 @@ I am an ambitious person, constantly learning and developing. I have an open min
 
 ## Tech stack: 
 
-React, React Redux, React Routing, TypeScript, HTML, Scss and still learning!
+React, React Redux, React Routing, TypeScript, HTML, Scss and now I'm learning React Native.
 
 ## Projects: 
 
