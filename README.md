@@ -17,3 +17,8 @@ React Movie App: https://tomfrontdev.github.io/Movie-App-React/
 eCommerce shop page: https://tomfrontdev.github.io/ecommerce-product-page-main/
 
 To-do-App: https://tomfrontdev.github.io/ToDoApp/
+
+
+![Poprawka1](https://github.com/tomfrontdev/tomfrontdev/assets/104151413/5ae4f2ab-45f0-4b03-b629-d610dbe0df91)
+![Poprawka3](https://github.com/tomfrontdev/tomfrontdev/assets/104151413/eff2a9ff-ae9b-4408-a0d6-4e35fb130ff2)
+![Poprawka2](https://github.com/tomfrontdev/tomfrontdev/assets/104151413/fe1b4d35-f3d0-4283-acf2-f85f10a2b01f)
