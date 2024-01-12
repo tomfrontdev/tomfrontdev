@@ -6,7 +6,7 @@ I am an ambitious person, constantly learning and developing. I have an open min
 
 ## Tech stack: 
 
-React, React Redux, React Routing, TypeScript, HTML, Scss, React Native, FireBase, REST APi, Github, VSCode
+React, Next, React Query, Redux, React Routing, TypeScript, HTML, Scss, React Native, FireBase, REST APi, Github, VSCode
 
 ## Non-Commercial Projects: 
 
